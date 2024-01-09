@@ -23,14 +23,12 @@
     [
       "KC_MUTE",
       "KC_ESC",
-
       "KC_F1",
       "KC_F2",
       "KC_F3",
       "KC_F4",
       "KC_F5",
       "KC_F6",
-
       "KC_NO",
       "MO(1)",
       "KC_GRV",
@@ -465,7 +463,7 @@
   ],
   "encoders": [
     [
-      ["KC_MS_WH_UP", "KC_MS_WH_DOWN"],
+      ["KC_VOLD", "KC_VOLU"],
       ["RGB_VAD", "RGB_VAI"],
       ["KC_VOLD", "KC_VOLU"],
       ["RGB_VAD", "RGB_VAI"]
