@@ -3,6 +3,7 @@
 - The F keys have priority
 - I'm not using a specific layer for windows. Press the M2 to toggle between layer 2 and 0. (layer 2 is the numpad layer for the moment)
 
+- Put lock on the left to not be hit by mistake so often (too close to del and F12)
 - M1 (together with bindings below) moves cursor 10 lines up/down
 ```JSON
   {
