@@ -3,7 +3,7 @@
   "vendorProductId": 875823584,
   "macros": [
     "{KC_LCTL,KC_LGUI,KC_Q}",
-    "{KC_LCTL,KC_LSFT,KC_UP}",
+    "{KC_RSFT,KC_LGUI,KC_M}",
     "{KC_LCTL,KC_LSFT,KC_DOWN}",
     "",
     "",

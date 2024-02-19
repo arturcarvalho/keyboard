@@ -1,5 +1,6 @@
 # keyboard
 
+- M1: Toggle mute in webex/teams/slack? `Cmd + Shift + M`
 - M5: Toggle dock: `Options + Cmd + D`
 - The F keys have priority
 - Made 
@@ -30,5 +31,4 @@
   },
   ```
 
-- M15 / cmd+space / now used for the moment
 - Double ctrl. For the moment there are 2 controls to the left. Still not sure what to do here, but for the moment it will work like this.
