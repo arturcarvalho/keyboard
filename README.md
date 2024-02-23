@@ -1,6 +1,6 @@
 # keyboard
 
-- M1: Toggle mute in webex/teams/slack? `Cmd + Shift + M`
+- M1: Toggle mute mic on mac using mutekey app `Shift + Cmd + W`
 - M5: Toggle dock: `Options + Cmd + D`
 - The F keys have priority
 - Made 
