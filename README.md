@@ -1,6 +1,7 @@
 # keyboard
 
 - M1: Toggle mute mic on mac using mutekey app `Shift + Cmd + W`
+- M2: Create screenshot: `Shift + Ctrl + Cmd + 4`
 - M5: Toggle dock: `Options + Cmd + D`
 - The F keys have priority
 - Made 
