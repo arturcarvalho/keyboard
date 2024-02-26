@@ -5,7 +5,7 @@
     "{KC_LCTL,KC_LGUI,KC_Q}",
     "{KC_RSFT,KC_LGUI,KC_W}",
     "{KC_LSFT,KC_LCTL,KC_LGUI,KC_4}",
-    "",
+    "{KC_LSFT,KC_LGUI,KC_4}",
     "",
     "{KC_LALT,KC_LGUI,KC_D}",
     "{KC_RGUI,KC_MINS}",
