@@ -1,6 +1,6 @@
 # keyboard
 
-- M1: Toggle mute mic on mac using mutekey app `Shift + Cmd + W`
+- M1: Toggle mute mic on mac (webex, teams, etc but app must be selected) `Shift + Cmd + M`
 - M2: Create screenshot to past: `Shift + Ctrl + Cmd + 4`
 - M3: Create screenshot window: `Shift + Cmd + 4`
 - M5: Toggle dock: `Options + Cmd + D`
